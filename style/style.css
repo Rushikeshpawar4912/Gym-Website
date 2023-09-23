@@ -1,0 +1,31 @@
+
+.cards{
+    display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.text-center{
+    color:black;
+    font-family: cursive;
+    font-weight: bold;
+}
+.boxes img{
+    width:80%;
+    padding:70px;
+    margin: 70px;
+}
+.boxes {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.MEMBERSHIP{
+   text-align: center;
+}
+.btn{
+    border: 2px solid orangered;
+} 
+
+.cardd{
+    display: flex;
+}
